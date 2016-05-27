@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slimroken.nl</string>
+
+    <string name="product_list">Producten</string>
+    <string name="shopping_cart">Winkelmand</string>
+    <string name="name">Naam</string>
+    <string name="unit_price">Prijs Per Stuk</string>
+    <string name="quantity">Aantal</string>
+    <string name="view">View</string>
+    <string name="action">Actie</string>
+    <string name="order">Bestel</string>
+    <string name="price">Prijs</string>
+    <string name="total_price">Totale Prijs</string>
+    <string name="remove">Verwijder</string>
+    <string name="clear_cart">Maak Leeg</string>
+    <string name="shop">Voeg Toe</string>
+</resources>
